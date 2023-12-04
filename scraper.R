@@ -1,7 +1,2 @@
-print('This is the scraper file')
-print('This is the scraper file')
-print('This is the scraper file')
-print('This is the scraper file')
-print('This is the scraper file')
-print('This is the scraper file')
-print('This is the scraper file')
+library(httr2)
+
