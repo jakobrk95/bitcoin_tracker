@@ -1,5 +1,5 @@
-# stock_tracker
-Tracking a stock
+# bitcoin_tracker
+Tracking the bitcoin price.
 
 This is an edit.
 
