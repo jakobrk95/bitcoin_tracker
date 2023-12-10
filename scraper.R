@@ -1,5 +1,5 @@
 library(httr2)
-source('PAT.R')
+source('cred.R')
 
 req <- request("https://alpha-vantage.p.rapidapi.com/query") %>%
   req_url_query(  "from_currency" = "BTC",
